@@ -69,5 +69,5 @@ Linux & Open Source
 
 > Learn → Build → Test → Improve → Ship
 
-I prefer learning technologies by building practical applications and experimenting with real-world software ideas.
+I prefer learning technologies by building practical applications and experimenting with real-world software ideas
 
